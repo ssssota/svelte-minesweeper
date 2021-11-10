@@ -1,1 +1,1 @@
-# Svelte Markdown Practice
+# Svelte Minesweeper Practice
